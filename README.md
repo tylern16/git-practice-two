@@ -6,3 +6,5 @@ whats crackin
 add,
 commit,
 push,
+
+in that order
